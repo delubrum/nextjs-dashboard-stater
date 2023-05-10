@@ -3,8 +3,8 @@ import AuthContext from './context/AuthContext'
 import ToasterContext from './context/ToasterContext'
 
 export const metadata = {
-  title: 'Messenger',
-  description: 'Messenger Clone',
+  title: 'Auth Starter',
+  description: 'Next Auth - PlanetScale - Prisma',
 }
 
 export default function RootLayout({
